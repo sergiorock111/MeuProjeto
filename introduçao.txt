@@ -2,3 +2,5 @@ inicializando o projeto
 alteração pela branch feature-navbar 
 
 alteração para resolucão da questao 6 por Manoel Patrocinio
+
+questao 7
